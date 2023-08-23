@@ -1,6 +1,6 @@
 # Crowd-Funding
 
-This project is a blockchain-based crowdfunding platform that allows users to donate money to projects of their choice. The funds are held in a smart contract, which can only be released if 51% of the contributors approve.
+This project is based on a blockchain technology that allows users to donate money to projects of their choice. The funds are held in a smart contract, which can only be released if 51% of the contributors approve.
 
 ## Features
 
